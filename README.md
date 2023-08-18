@@ -5,8 +5,8 @@ This project generates personalized workout plans based on the user's fitness go
 ## Features
 
 - Generates workout plans for muscle building and fat loss goals.
-- Tracks exercise progress and view it in the GUI.
-- Save exercise progress to a text file for future reference.
+- Tracks exercise progress and displays it in the GUI as well as updates progress text file.
+- Saves exercise progress history to a text file for future reference.
   
 ## Usage
 
