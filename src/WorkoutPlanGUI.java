@@ -108,12 +108,11 @@ public class WorkoutPlanGUI {
     private static void saveProgress() {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(PROGRESS_FILE_PATH, true))) {
             writer.write(progressTracker.toString());
-            writer.newLine(); // Add a new line for separation
+            writer.newLine(); // New line for separation
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
-    
 
     private static void loadProgress() {
         try (BufferedReader reader = new BufferedReader(new FileReader(PROGRESS_FILE_PATH))) {
@@ -127,6 +126,4 @@ public class WorkoutPlanGUI {
             e.printStackTrace();
         }
     }
-    
-    
 }
