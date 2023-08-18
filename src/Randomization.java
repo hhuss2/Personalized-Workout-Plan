@@ -27,6 +27,4 @@ public class Randomization {
     public int getRandomIndex(int maxIndex) {
         return random.nextInt(maxIndex);
     }
-
-    // You can add more randomization methods as needed
 }
