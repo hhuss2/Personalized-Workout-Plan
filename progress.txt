@@ -1,0 +1,62 @@
+Push-up: Sets - 3, Reps - 12
+Bench Press: Sets - 3, Reps - 12
+Dumbbell Fly: Sets - 3, Reps - 8
+Pull-up: Sets - 3, Reps - 9
+Bent Over Row: Sets - 3, Reps - 6
+Lat Pulldown: Sets - 3, Reps - 12
+Push-up: Sets - 3, Reps - 11
+Bench Press: Sets - 3, Reps - 10
+Dumbbell Fly: Sets - 3, Reps - 7
+
+Push-up: Sets - 3, Reps - 11
+Bench Press: Sets - 3, Reps - 10
+Dumbbell Fly: Sets - 3, Reps - 7
+Pull-up: Sets - 3, Reps - 7
+Bent Over Row: Sets - 3, Reps - 11
+Lat Pulldown: Sets - 3, Reps - 12
+
+Push-up: Sets - 3, Reps - 11
+Bench Press: Sets - 3, Reps - 10
+Dumbbell Fly: Sets - 3, Reps - 7
+Pull-up: Sets - 3, Reps - 7
+Bent Over Row: Sets - 3, Reps - 11
+Lat Pulldown: Sets - 3, Reps - 12
+Bicep Curl: Sets - 3, Reps - 14
+Preacher Curl: Sets - 3, Reps - 12
+Cardio: Minutes - 32
+
+Push-up: Sets - 3, Reps - 9
+Bench Press: Sets - 3, Reps - 9
+Dumbbell Fly: Sets - 3, Reps - 12
+
+Push-up: Sets - 3, Reps - 9
+Bench Press: Sets - 3, Reps - 9
+Dumbbell Fly: Sets - 3, Reps - 12
+Shoulder Press: Sets - 3, Reps - 7
+Lateral Raise: Sets - 3, Reps - 9
+
+Push-up: Sets - 3, Reps - 9
+Bench Press: Sets - 3, Reps - 9
+Dumbbell Fly: Sets - 3, Reps - 12
+Shoulder Press: Sets - 3, Reps - 7
+Lateral Raise: Sets - 3, Reps - 9
+Crunches: Sets - 3, Reps - 13
+Leg raises: Sets - 3, Reps - 13
+Cardio: Minutes - 37
+
+Push-up: Sets - 3, Reps - 12
+Bench Press: Sets - 3, Reps - 12
+Dumbbell Fly: Sets - 3, Reps - 8
+
+Push-up: Sets - 3, Reps - 12
+Bench Press: Sets - 3, Reps - 12
+Dumbbell Fly: Sets - 3, Reps - 8
+Pull-up: Sets - 3, Reps - 14
+Bent Over Row: Sets - 3, Reps - 12
+Lat Pulldown: Sets - 3, Reps - 12
+Cardio: Minutes - 42
+
+Push-up: Sets - 3, Reps - 12
+Bench Press: Sets - 3, Reps - 10
+Dumbbell Fly: Sets - 3, Reps - 7
+
