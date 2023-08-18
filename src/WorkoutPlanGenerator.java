@@ -8,7 +8,7 @@ public class WorkoutPlanGenerator {
     public WorkoutPlanGenerator(ExerciseList exerciseList) {
         this.goalCategories = new ArrayList<>();
         this.exerciseList = exerciseList;
-        initializeGoalCategories(); // Call a method to populate the goal categories
+        initializeGoalCategories(); // Populate the goal categories
     }
 
     private void initializeGoalCategories() {
@@ -35,7 +35,7 @@ public class WorkoutPlanGenerator {
         List<Exercise> selectedExercises = selectExercisesForMuscleGroup(selectedMuscleGroup);
 
         if (includeCardio && selectedGoal.equalsIgnoreCase("Fat Loss")) {
-            selectedExercises.add(new Exercise("Cardio", "Cardio", "None", 0)); // Cardio exercise with 0 sets
+            selectedExercises.add(new Exercise("Cardio", "Cardio", "None", 0)); // Cardio exercise tracked by time
         }
 
         WorkoutPlan workoutPlan = new WorkoutPlan(selectedGoal, selectedExercises, minReps, maxReps);
