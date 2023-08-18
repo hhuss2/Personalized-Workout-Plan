@@ -1,6 +1,6 @@
 # Overview
 
-Generates workout plans based on user's fitness goals and muscle group that user wants to train. It provides a simple graphical user interface (GUI) for generating workout plans and tracking your exercise progress over time.
+This project generates personalized workout plans based on user's fitness goals and muscle group that user wants to train. It provides a simple graphical user interface (GUI) for generating workout plans and tracking your exercise progress over time.
 
 ## Features
 
