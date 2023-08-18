@@ -2,13 +2,13 @@ public class Exercise {
     private String name;
     private String muscleGroup;
     private String equipment;
-    private int sets; // Add this field
+    private int sets;
 
     public Exercise(String name, String muscleGroup, String equipment, int sets) {
         this.name = name;
         this.muscleGroup = muscleGroup;
         this.equipment = equipment;
-        this.sets = sets; // Initialize the sets
+        this.sets = sets;
     }
 
     public String getName() {
