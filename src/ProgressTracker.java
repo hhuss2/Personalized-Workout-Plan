@@ -17,7 +17,7 @@ public class ProgressTracker implements Serializable {
 
     public void loadProgress(String progressText) {
         String[] lines = progressText.split("\n");
-        exerciseProgressList.clear(); // Clear the existing progress
+        exerciseProgressList.clear();
 
         for (String line : lines) {
             String[] parts = line.split(",");
