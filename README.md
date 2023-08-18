@@ -12,5 +12,5 @@ This project generates personalized workout plans based on the user's fitness go
 
 + Download files into the same directory
 + Compile and run the WorkoutPlanGUI.java file to open the GUI.
-+ Select your fitness goal and muscle group, then click "Generate Workout" to create a workout plan.
++ Select your fitness goal and muscle group to train, then click "Generate Workout" to create a workout plan.
 + Click "Show Progress" to view your exercise progress.
