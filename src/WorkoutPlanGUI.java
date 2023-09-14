@@ -28,7 +28,6 @@ public class WorkoutPlanGUI {
 
         JPanel panel = new JPanel();
 
-        JLabel titleLabel = new JLabel("Personal Workout Plan");
         JLabel goalLabel = new JLabel("Select your goal:");
         JLabel muscleGroupLabel = new JLabel("Select the muscle group:");
         workoutTextArea = new JTextArea(10, 30);
@@ -50,7 +49,6 @@ public class WorkoutPlanGUI {
             }
         });
 
-        panel.add(titleLabel);
         panel.add(goalLabel);
         panel.add(goalComboBox);
         panel.add(muscleGroupLabel);
